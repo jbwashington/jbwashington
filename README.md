@@ -1,15 +1,26 @@
-# Hi there, I'm JB Washington 👋
+# Hi there, I'm JB Washington
 
-I'm a software engineer who builds things for the web.
+Full-stack developer specializing in AI-powered web applications, automation, and open-source tools.
 
-## 📝 Recent Blog Posts
+## Areas of Expertise
+
+**Web Development**: Next.js, React, TypeScript, Tailwind CSS, Supabase, Vercel
+**AI & Automation**: Claude Code agent development, MCP servers, LLM integration, web scraping
+**Self-Hosting**: Docker, PostgreSQL, open-source infrastructure, privacy-first solutions
+**Developer Tools**: Terminal UIs, CLI applications, GitHub Actions, Python scripting
+
+## Interests
+
+I'm passionate about AI agents and agentic workflows, creative coding (music programming, livecoding, generative art), OSINT and security research, self-hosted alternatives to commercial services, and building single-file HTML tools that run entirely in the browser.
+
+## Recent Blog Posts
 
 <!-- blog_posts starts -->
 - [Welcome to Jekyll!](https://jbwashington.github.io/jekyll/update/2017/11/04/welcome-to-jekyll.html) - Nov 04, 2017
 - [Markdown Style Guide](https://jbwashington.github.io/jekyll/2017/11/04/markdown-style-guide.html) - Nov 04, 2017
 <!-- blog_posts ends -->
 
-## 🚀 Recent Projects
+## Recent Projects
 
 <!-- recent_repos starts -->
 - [jbwashington](https://github.com/jbwashington/jbwashington) - My GitHub profile README 
@@ -19,7 +30,7 @@ I'm a software engineer who builds things for the web.
 - [ligma-stack](https://github.com/jbwashington/ligma-stack) - None 
 <!-- recent_repos ends -->
 
-## 💻 Recent Commits
+## Recent Commits
 
 <!-- recent_commits starts -->
 - No recent commits

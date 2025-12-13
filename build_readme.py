@@ -59,7 +59,7 @@ def fetch_recent_repos(limit=5):
             description = repo.get("description", "No description")
             url = repo["html_url"]
             stars = repo["stargazers_count"]
-            star_text = f"⭐ {stars}" if stars > 0 else ""
+            star_text = f"({stars} stars)" if stars > 0 else ""
 
             result.append(f"- [{name}]({url}) - {description} {star_text}")
 

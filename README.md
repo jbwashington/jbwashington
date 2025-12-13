@@ -24,9 +24,9 @@ I'm passionate about AI agents and agentic workflows, creative coding (music pro
 
 <!-- recent_repos starts -->
 - [jbwashington](https://github.com/jbwashington/jbwashington) - My GitHub profile README 
-- [will-pre-launch](https://github.com/jbwashington/will-pre-launch) - Viral waitlist platform for Will's Exotic Snacks - NYC's hottest exotic snack delivery service. Built with Next.js 15, Supabase, and Claude AI. ⭐ 2
+- [will-pre-launch](https://github.com/jbwashington/will-pre-launch) - Viral waitlist platform for Will's Exotic Snacks - NYC's hottest exotic snack delivery service. Built with Next.js 15, Supabase, and Claude AI. (2 stars)
 - [school-stats](https://github.com/jbwashington/school-stats) - NCAA Athletic Program Data Collection & API Service - Specialized scraping platform for athletic staff information 
-- [ebay-mcp](https://github.com/jbwashington/ebay-mcp) - eBay listing automation plugin for Claude Code with AI-powered image analysis, pricing research, and fraud detection ⭐ 1
+- [ebay-mcp](https://github.com/jbwashington/ebay-mcp) - eBay listing automation plugin for Claude Code with AI-powered image analysis, pricing research, and fraud detection (1 stars)
 - [ligma-stack](https://github.com/jbwashington/ligma-stack) - None 
 <!-- recent_repos ends -->
 

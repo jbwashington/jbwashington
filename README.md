@@ -1,6 +1,6 @@
-# Hi there, I'm JB Washington
+# James Washington
 
-Full-stack developer specializing in AI-powered web applications, automation, and open-source tools.
+Full-stack developer specializing in AI-powered web applications, automation, and open-source tools.  Based in Bushwick, NYC.
 
 ## Areas of Expertise
 

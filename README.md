@@ -24,8 +24,8 @@ I'm passionate about AI agents and agentic workflows, creative coding (music pro
 ## Recent Projects
 
 <!-- recent_repos starts -->
-- [wdot](https://github.com/jbwashington/wdot) - Fast, stealthy headless browser fetcher for AI agents. Renders JS, returns clean markdown, solves captchas. Built in Rust. 
 - [jbwashington](https://github.com/jbwashington/jbwashington) - My GitHub profile README 
+- [wdot](https://github.com/jbwashington/wdot) - Fast, stealthy headless browser fetcher for AI agents. Renders JS, returns clean markdown, solves captchas. Built in Rust. 
 - [jbwashington.github.io](https://github.com/jbwashington/jbwashington.github.io) - finessing the web  
 - [ebay-mcp](https://github.com/jbwashington/ebay-mcp) - eBay listing automation plugin for Claude Code with AI-powered image analysis, pricing research, and fraud detection (3 stars)
 - [afterschool](https://github.com/jbwashington/afterschool) - None 

@@ -16,6 +16,7 @@ I'm passionate about AI agents and agentic workflows, creative coding (music pro
 ## Recent Blog Posts
 
 <!-- blog_posts starts -->
+- [geneology-reverse-engineer](https://jbwashington.github.io/replay/2026/04/10/geneology-reverse-engineer.html) - Apr 10, 2026
 - [TLS Fingerprinting: Your Phone Isn’t Listening, But It Doesn’t Need To](https://jbwashington.github.io/privacy/security/2025/12/31/tls-fingerprinting-your-phone-isnt-listening.html) - Dec 31, 2025
 - [My Software Development Environment in 2025](https://jbwashington.github.io/development/tools/2025/12/31/my-development-environment.html) - Dec 31, 2025
 - [Welcome to Jekyll!](https://jbwashington.github.io/jekyll/update/2017/11/04/welcome-to-jekyll.html) - Nov 04, 2017
@@ -24,11 +25,11 @@ I'm passionate about AI agents and agentic workflows, creative coding (music pro
 ## Recent Projects
 
 <!-- recent_repos starts -->
+- [jbwashington.github.io](https://github.com/jbwashington/jbwashington.github.io) - finessing the web  
 - [jbwashington](https://github.com/jbwashington/jbwashington) - My GitHub profile README 
 - [tnsny.org](https://github.com/jbwashington/tnsny.org) - The Neighborhood School (PS363M) - Hugo static site with Decap CMS on Cloudflare Pages 
 - [ebay-mcp](https://github.com/jbwashington/ebay-mcp) - eBay listing automation plugin for Claude Code with AI-powered image analysis, pricing research, and fraud detection (4 stars)
 - [wdot](https://github.com/jbwashington/wdot) - Fast, stealthy headless browser fetcher for AI agents. Renders JS, returns clean markdown, solves captchas. Built in Rust. 
-- [jbwashington.github.io](https://github.com/jbwashington/jbwashington.github.io) - finessing the web  
 <!-- recent_repos ends -->
 
 ## Recent Commits

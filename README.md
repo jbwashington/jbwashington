@@ -19,7 +19,6 @@ I'm passionate about AI agents and agentic workflows, creative coding (music pro
 - [geneology-reverse-engineer](https://jbwashington.github.io/replay/2026/04/10/geneology-reverse-engineer.html) - Apr 10, 2026
 - [TLS Fingerprinting: Your Phone Isn’t Listening, But It Doesn’t Need To](https://jbwashington.github.io/privacy/security/2025/12/31/tls-fingerprinting-your-phone-isnt-listening.html) - Dec 31, 2025
 - [My Software Development Environment in 2025](https://jbwashington.github.io/development/tools/2025/12/31/my-development-environment.html) - Dec 31, 2025
-- [Welcome to Jekyll!](https://jbwashington.github.io/jekyll/update/2017/11/04/welcome-to-jekyll.html) - Nov 04, 2017
 <!-- blog_posts ends -->
 
 ## Recent Projects

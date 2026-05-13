@@ -26,10 +26,10 @@ I'm passionate about AI agents and agentic workflows, creative coding (music pro
 
 <!-- recent_repos starts -->
 - [artifacts](https://github.com/jbwashington/artifacts) - Self-describing HTML artifacts with embedded DSL grammar. See https://jbwashington.github.io/livedocs/ 
+- [create-react-app](https://github.com/jbwashington/create-react-app) - Create React apps with no build configuration. 
 - [jbwashington](https://github.com/jbwashington/jbwashington) - My GitHub profile README 
 - [jbwashington.github.io](https://github.com/jbwashington/jbwashington.github.io) - finessing the web  
 - [ebay-mcp](https://github.com/jbwashington/ebay-mcp) - eBay listing automation plugin for Claude Code with AI-powered image analysis, pricing research, and fraud detection (5 stars)
-- [tnsny.org](https://github.com/jbwashington/tnsny.org) - The Neighborhood School (PS363M) - Hugo static site with Decap CMS on Cloudflare Pages 
 <!-- recent_repos ends -->
 
 ## Recent Commits

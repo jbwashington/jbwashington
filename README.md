@@ -25,11 +25,11 @@ I'm passionate about AI agents and agentic workflows, creative coding (music pro
 ## Recent Projects
 
 <!-- recent_repos starts -->
+- [artifacts](https://github.com/jbwashington/artifacts) - Self-describing HTML artifacts with embedded DSL grammar. See https://jbwashington.github.io/livedocs/ 
 - [authgate](https://github.com/jbwashington/authgate) - Switch user-level CLI auth between named profiles (cloudflare, stripe, vercel, gh, doctl) 
 - [homebrew-tap](https://github.com/jbwashington/homebrew-tap) - Homebrew tap for jbwashington's tools 
 - [jbwashington](https://github.com/jbwashington/jbwashington) - My GitHub profile README 
 - [jbwashington.github.io](https://github.com/jbwashington/jbwashington.github.io) - finessing the web  
-- [artifacts](https://github.com/jbwashington/artifacts) - Self-describing HTML artifacts with embedded DSL grammar. See https://jbwashington.github.io/livedocs/ 
 <!-- recent_repos ends -->
 
 ## Recent Commits

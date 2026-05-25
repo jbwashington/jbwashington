@@ -24,11 +24,11 @@ I'm passionate about AI agents and agentic workflows, creative coding (music pro
 ## Recent Projects
 
 <!-- recent_repos starts -->
+- [wdot](https://github.com/jbwashington/wdot) - Rust browser harness for AI agents — Chromium-based fetching with token-efficient markdown output, reputation monitoring, and an OSINT module. 
+- [jbwashington](https://github.com/jbwashington/jbwashington) - My GitHub profile README 
 - [jbwashington.github.io](https://github.com/jbwashington/jbwashington.github.io) - finessing the web  
 - [artifacts](https://github.com/jbwashington/artifacts) - Self-describing HTML artifacts with embedded DSL grammar. See https://jbwashington.github.io/artifacts/ 
-- [jbwashington](https://github.com/jbwashington/jbwashington) - My GitHub profile README 
 - [authgate](https://github.com/jbwashington/authgate) - Switch user-level CLI auth between named profiles (cloudflare, stripe, vercel, gh, doctl) 
-- [homebrew-tap](https://github.com/jbwashington/homebrew-tap) - Homebrew tap for jbwashington's tools 
 <!-- recent_repos ends -->
 
 ## Recent Commits

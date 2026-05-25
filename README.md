@@ -17,7 +17,6 @@ I'm passionate about AI agents and agentic workflows, creative coding (music pro
 
 <!-- blog_posts starts -->
 - [Turning a Free NYC DOE Student Hotspot into a Rayhunter](https://jbwashington.github.io/privacy/security/hardware/2026/05/12/rayhunter-on-tmobile-nyc-doe-hotspot.html) - May 12, 2026
-- [geneology-reverse-engineer](https://jbwashington.github.io/replay/2026/04/10/geneology-reverse-engineer.html) - Apr 10, 2026
 - [TLS Fingerprinting: Your Phone Isn’t Listening, But It Doesn’t Need To](https://jbwashington.github.io/privacy/security/2025/12/31/tls-fingerprinting-your-phone-isnt-listening.html) - Dec 31, 2025
 - [My Software Development Environment in 2025](https://jbwashington.github.io/development/tools/2025/12/31/my-development-environment.html) - Dec 31, 2025
 <!-- blog_posts ends -->
@@ -25,11 +24,11 @@ I'm passionate about AI agents and agentic workflows, creative coding (music pro
 ## Recent Projects
 
 <!-- recent_repos starts -->
+- [jbwashington.github.io](https://github.com/jbwashington/jbwashington.github.io) - finessing the web  
+- [artifacts](https://github.com/jbwashington/artifacts) - Self-describing HTML artifacts with embedded DSL grammar. See https://jbwashington.github.io/artifacts/ 
 - [jbwashington](https://github.com/jbwashington/jbwashington) - My GitHub profile README 
-- [artifacts](https://github.com/jbwashington/artifacts) - Self-describing HTML artifacts with embedded DSL grammar. See https://jbwashington.github.io/livedocs/ 
 - [authgate](https://github.com/jbwashington/authgate) - Switch user-level CLI auth between named profiles (cloudflare, stripe, vercel, gh, doctl) 
 - [homebrew-tap](https://github.com/jbwashington/homebrew-tap) - Homebrew tap for jbwashington's tools 
-- [jbwashington.github.io](https://github.com/jbwashington/jbwashington.github.io) - finessing the web  
 <!-- recent_repos ends -->
 
 ## Recent Commits

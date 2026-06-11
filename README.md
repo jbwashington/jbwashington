@@ -24,8 +24,8 @@ I'm passionate about AI agents and agentic workflows, creative coding (music pro
 ## Recent Projects
 
 <!-- recent_repos starts -->
-- [artifacts](https://github.com/jbwashington/artifacts) - Self-describing HTML artifacts with embedded DSL grammar. See https://jbwashington.github.io/artifacts/ 
 - [jbwashington](https://github.com/jbwashington/jbwashington) - My GitHub profile README 
+- [artifacts](https://github.com/jbwashington/artifacts) - Self-describing HTML artifacts with embedded DSL grammar. See https://jbwashington.github.io/artifacts/ 
 - [dj-neighbor](https://github.com/jbwashington/dj-neighbor) - Now-playing web app for the DJ next door: mic audio recognition (shazamio) with Spotify/Apple/YouTube Music links 
 - [wdot](https://github.com/jbwashington/wdot) - Rust browser harness for AI agents — Chromium-based fetching with token-efficient markdown output, reputation monitoring, and an OSINT module. (1 stars)
 - [jbwashington.github.io](https://github.com/jbwashington/jbwashington.github.io) - finessing the web  

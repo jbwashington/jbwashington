@@ -34,7 +34,7 @@ I'm passionate about AI agents and agentic workflows, creative coding (music pro
 ## Recent Commits
 
 <!-- recent_commits starts -->
-- Error loading commits
+- No recent commits
 <!-- recent_commits ends -->
 
 ---

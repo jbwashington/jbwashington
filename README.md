@@ -16,9 +16,7 @@ I'm passionate about AI agents and agentic workflows, creative coding (music pro
 ## Recent Blog Posts
 
 <!-- blog_posts starts -->
-- [Turning a Free NYC DOE Student Hotspot into a Rayhunter](https://jbwashington.github.io/privacy/security/hardware/2026/05/12/rayhunter-on-tmobile-nyc-doe-hotspot.html) - May 12, 2026
-- [TLS Fingerprinting: Your Phone Isn’t Listening, But It Doesn’t Need To](https://jbwashington.github.io/privacy/security/2025/12/31/tls-fingerprinting-your-phone-isnt-listening.html) - Dec 31, 2025
-- [My Software Development Environment in 2025](https://jbwashington.github.io/development/tools/2025/12/31/my-development-environment.html) - Dec 31, 2025
+- No recent posts
 <!-- blog_posts ends -->
 
 ## Recent Projects

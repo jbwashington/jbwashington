@@ -24,8 +24,8 @@ I'm passionate about AI agents and agentic workflows, creative coding (music pro
 ## Recent Projects
 
 <!-- recent_repos starts -->
+- [ebay-mcp](https://github.com/jbwashington/ebay-mcp) - eBay listing automation plugin for Claude Code with AI-powered image analysis, pricing research, and fraud detection (10 stars)
 - [jbwashington](https://github.com/jbwashington/jbwashington) - My GitHub profile README 
-- [ebay-mcp](https://github.com/jbwashington/ebay-mcp) - eBay listing automation plugin for Claude Code with AI-powered image analysis, pricing research, and fraud detection (9 stars)
 - [artifacts](https://github.com/jbwashington/artifacts) - Self-describing HTML artifacts with embedded DSL grammar. See https://jbwashington.github.io/artifacts/ 
 - [jbwashington.github.io](https://github.com/jbwashington/jbwashington.github.io) - finessing the web  
 - [homebrew-tap](https://github.com/jbwashington/homebrew-tap) - Homebrew tap for jbwashington's tools 

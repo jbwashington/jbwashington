@@ -24,11 +24,11 @@ I'm passionate about AI agents and agentic workflows, creative coding (music pro
 ## Recent Projects
 
 <!-- recent_repos starts -->
-- [gplay-apk-downloader](https://github.com/jbwashington/gplay-apk-downloader) - Download APK files directly from Google Play Store. 
+- [deepseek-harness](https://github.com/jbwashington/deepseek-harness) - DeepSeek Harness: Everything is a Plugin. 
 - [jbwashington](https://github.com/jbwashington/jbwashington) - My GitHub profile README 
+- [gplay-apk-downloader](https://github.com/jbwashington/gplay-apk-downloader) - Download APK files directly from Google Play Store. 
 - [ebay-mcp](https://github.com/jbwashington/ebay-mcp) - eBay listing automation plugin for Claude Code with AI-powered image analysis, pricing research, and fraud detection (12 stars)
 - [artifacts](https://github.com/jbwashington/artifacts) - Self-describing HTML artifacts with embedded DSL grammar. See https://jbwashington.github.io/artifacts/ 
-- [jbwashington.github.io](https://github.com/jbwashington/jbwashington.github.io) - finessing the web  
 <!-- recent_repos ends -->
 
 ## Recent Commits

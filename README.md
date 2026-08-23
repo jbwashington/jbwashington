@@ -24,8 +24,8 @@ I'm passionate about AI agents and agentic workflows, creative coding (music pro
 ## Recent Projects
 
 <!-- recent_repos starts -->
-- [ebay-mcp](https://github.com/jbwashington/ebay-mcp) - eBay listing automation plugin for Claude Code with AI-powered image analysis, pricing research, and fraud detection (13 stars)
 - [jbwashington](https://github.com/jbwashington/jbwashington) - My GitHub profile README 
+- [ebay-mcp](https://github.com/jbwashington/ebay-mcp) - eBay listing automation plugin for Claude Code with AI-powered image analysis, pricing research, and fraud detection (13 stars)
 - [dsh-voice](https://github.com/jbwashington/dsh-voice) - DSH plugin: voice notes in, spoken answers out. STT + TTS via a self-hosted LiteLLM proxy. 
 - [deepseek-harness](https://github.com/jbwashington/deepseek-harness) - DeepSeek Harness: Everything is a Plugin. 
 - [gplay-apk-downloader](https://github.com/jbwashington/gplay-apk-downloader) - Download APK files directly from Google Play Store. 

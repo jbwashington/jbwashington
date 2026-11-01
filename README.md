@@ -24,11 +24,11 @@ I'm passionate about AI agents and agentic workflows, creative coding (music pro
 ## Recent Projects
 
 <!-- recent_repos starts -->
-- [jbwashington](https://github.com/jbwashington/jbwashington) - My GitHub profile README 
-- [jbwashington.github.io](https://github.com/jbwashington/jbwashington.github.io) - finessing the web  
-- [ebay-mcp](https://github.com/jbwashington/ebay-mcp) - eBay listing automation plugin for Claude Code with AI-powered image analysis, pricing research, and fraud detection (17 stars)
-- [dsh-voice](https://github.com/jbwashington/dsh-voice) - DSH plugin: voice notes in, spoken answers out. STT + TTS via a self-hosted LiteLLM proxy. 
-- [deepseek-harness](https://github.com/jbwashington/deepseek-harness) - DeepSeek Harness: Everything is a Plugin. 
+- [vendor-shadcn](https://github.com/jbwashington/vendor-shadcn) - Trimmed, pinned copy of shadcn-ui/ui shadcn@3.8.5 ad25490cf maintained by vendor-keeper 
+- [vendor-lucide](https://github.com/jbwashington/vendor-lucide) - Trimmed, pinned copy of lucide-icons/lucide 0.575.0 10f6d5f8c maintained by vendor-keeper 
+- [vendor-tw-animate-css](https://github.com/jbwashington/vendor-tw-animate-css) - Trimmed, pinned copy of Wombosvideo/tw-animate-css v1.4.0 c20dc32e2 maintained by vendor-keeper 
+- [vendor-cva](https://github.com/jbwashington/vendor-cva) - Trimmed, pinned copy of joe-bell/cva v0.7.1 45462dd23 maintained by vendor-keeper 
+- [vendor-clsx](https://github.com/jbwashington/vendor-clsx) - Trimmed, pinned copy of lukeed/clsx v2.1.1 925494cf3 maintained by vendor-keeper 
 <!-- recent_repos ends -->
 
 ## Recent Commits

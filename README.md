@@ -24,7 +24,7 @@ I'm passionate about AI agents and agentic workflows, creative coding (music pro
 ## Recent Projects
 
 <!-- recent_repos starts -->
-- [ebay-mcp](https://github.com/jbwashington/ebay-mcp) - eBay listing automation plugin for Claude Code with AI-powered image analysis, pricing research, and fraud detection (18 stars)
+- [ebay-mcp](https://github.com/jbwashington/ebay-mcp) - eBay listing automation plugin for Claude Code with AI-powered image analysis, pricing research, and fraud detection (19 stars)
 - [jbwashington](https://github.com/jbwashington/jbwashington) - My GitHub profile README 
 - [vendor-shadcn](https://github.com/jbwashington/vendor-shadcn) - Trimmed, pinned copy of shadcn-ui/ui shadcn@3.8.5 ad25490cf maintained by vendor-keeper 
 - [vendor-lucide](https://github.com/jbwashington/vendor-lucide) - Trimmed, pinned copy of lucide-icons/lucide 0.575.0 10f6d5f8c maintained by vendor-keeper 
